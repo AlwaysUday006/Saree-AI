@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Saree Draping: Virtual Try-On",
+  "description": "An AI-powered virtual saree try-on application using MediaPipe for pose detection and Gemini for realistic generative draping.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
